@@ -1,4 +1,4 @@
 ---
-title: Julian Eskandar: Professional Portfolio
+title: Julian Eskandar Professional Portfolio
 ---
 
